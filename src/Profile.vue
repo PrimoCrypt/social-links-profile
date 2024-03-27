@@ -11,7 +11,7 @@ const image = profileData.image
         <h1>{{ profileData.name}}</h1>
         <h4 class="location">{{ profileData.location }}</h4>
         <h4>{{ profileData.about }}</h4>
-        <div class="links" >
+        <div class="links">
             <Links />
         </div>
     </div>

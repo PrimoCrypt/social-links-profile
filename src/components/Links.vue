@@ -20,7 +20,7 @@ import { profileData } from '../data.js';
     margin-bottom: 0;
 }
 a{
-    color: none;
+    color: white;
 }
 button:hover{
     border: 1px rgb(0, 209, 0) solid;

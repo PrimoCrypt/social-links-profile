@@ -24,8 +24,7 @@ const image = profileData.image
     align-items: center;
     flex-direction: column;
     background: #333;
-    width: 300px;
-    max-width: 80%;
+    max-width: 300px;
     border-radius: 30px;
     padding: 40px;
 }

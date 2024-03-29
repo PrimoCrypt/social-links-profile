@@ -19,6 +19,9 @@ import { profileData } from '../data.js';
 .link:last-child{
     margin-bottom: 0;
 }
+a{
+    color: none;
+}
 button:hover{
     border: 1px rgb(0, 209, 0) solid;
 }

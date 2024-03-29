@@ -4,7 +4,10 @@ import { profileData } from '../data.js';
 
 <template>
     <div class="link" v-for="link in profileData.links">
-        <button>{{ link.linkName }}</button>
+        <a :href="link.address" target="_blank">
+            <button>{{ link.linkName }}</button>
+        </a>
+        
     </div>
 </template>
 

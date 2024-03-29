@@ -14,7 +14,7 @@ export const profileData = {
         },
         {
             linkName: "LinkedIn",
-            address: ""
+            address: "https://www.linkedin.com/in/primocrypt"
         }
         ]
 }

@@ -11,7 +11,11 @@ export const profileData = {
         {
             linkName:  "Twitter",
             address: "https://www.twitter.com/PrimoCrypt"
+        },
+        {
+            linkName: "LinkedIn",
+            address: ""
         }
-    ]
+        ]
 }
 

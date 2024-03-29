@@ -11,7 +11,7 @@ import { profileData } from '../data.js';
 <style>
 .link{
     max-width: 100%;
-    margin-bottom: 20px;
+    margin-bottom: 10px;
 }
 .link:last-child{
     margin-bottom: 0;

@@ -7,7 +7,7 @@ const image = profileData.image
 
 <template>
     <div class="container">
-        <img src="./assets/photo_2024-03-28_00-21-19.jpg">
+        <img src="./assets/dh8nH4lS_400x400.jpg">
         <h1>{{ profileData.name}}</h1>
         <h4 class="location">{{ profileData.location }}</h4>
         <h4>{{ profileData.about }}</h4>
@@ -30,17 +30,21 @@ const image = profileData.image
     padding: 40px;
 }
 img{
-    width: 150px;
-    height: 150px;
+    width: 170px;
     border-radius: 100%;
 }
 h1{
-    font-size: 2rem;
+    font-size: 1.8rem;
     margin-bottom: 0;
 }
 
 .location{
-    color: rgb(0, 209, 0)
+    font-size: 1rem;
+    color: rgb(0, 209, 0);
+    margin: 10px 0 0 0;
+}
+h4{
+    margin: 10px 0;
 }
 
 .links{

@@ -22,6 +22,9 @@ import { profileData } from '../data.js';
 a{
     color: white;
 }
+button{
+    color: white;
+}
 button:hover{
     border: 1px rgb(0, 209, 0) solid;
 }

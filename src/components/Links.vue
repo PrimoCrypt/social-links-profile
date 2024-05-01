@@ -19,9 +19,6 @@ import { profileData } from '../data.js';
 .link:last-child{
     margin-bottom: 0;
 }
-a{
-    color: white;
-}
 button{
     color: white;
 }
